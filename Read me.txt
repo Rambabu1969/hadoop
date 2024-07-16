@@ -1,4 +1,4 @@
-1. Download Java SDK, JRE and Hadoop 4.2.4 from 
+1. Download Java SDK, JRE and Hadoop 4.2.4 from https://drive.google.com/drive/folders/11nMEChq2-kCsOsyW51Y4n11j-zAH9Be5?usp=sharing
 2. Unzip Hadoop 3.2.4 Setup file
 3. Extract Hadoop to C drive, C:\Hadoop
 4. Install Java SDK and JRE
